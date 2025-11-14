@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #f8f5f0;
+  --fg: #2c160a;
+  --muted: #734a25;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  color: var(--fg);
+  background: var(--bg);
+}
+
+/* Elegant, subtle typography */
+@layer base {
+  h1 { @apply text-4xl md:text-5xl font-serif tracking-tight text-wood-900; }
+  h2 { @apply text-3xl md:text-4xl font-serif tracking-tight text-wood-800; }
+  h3 { @apply text-2xl md:text-3xl font-serif tracking-tight text-wood-700; }
+  p  { @apply text-base leading-7 text-wood-900/90; }
+  a  { @apply text-wood-700 hover:text-wood-900 transition-colors; }
+}
+
+/* Card */
+@layer components {
+  .card { @apply bg-white/70 backdrop-blur-sm border border-wood-100 shadow-soft rounded-xl; }
+  .container-px { @apply px-5 md:px-8; }
+}

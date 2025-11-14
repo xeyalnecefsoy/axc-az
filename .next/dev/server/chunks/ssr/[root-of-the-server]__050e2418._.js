@@ -114,37 +114,37 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$FounderCard$2e
 ;
 ;
 const metadata = {
-    title: 'Qurucular – Azərbaycan Xalq Cümhuriyyəti',
-    description: 'ADR-in qurucu şəxsiyyətləri: Rəsulzadə, Xoyski, Yusifbəyli, Topçubaşov barədə məlumat.'
+    title: "Qurucular – Azərbaycan Xalq Cümhuriyyəti",
+    description: "ADR-in qurucu şəxsiyyətləri: Rəsulzadə, Xoyski, Yusifbəyli, Topçubaşov barədə məlumat."
 };
 const founders = [
     {
-        name: 'Məhəmməd Əmin Rəsulzadə',
-        years: '1884–1955',
-        role: 'Milli Şura sədri, dövlət xadimi',
-        bio: '“Bir kərə yüksələn bayraq bir daha enməz” şüarı ilə milli dövlətçilik ideyasının simvolu, Cümhuriyyətin ideoloji əsaslarının formalaşdırılmasında aparıcı şəxs.',
-        imageUrl: 'https://images.unsplash.com/photo-1517849845537-4d257902454a?q=80&w=400&auto=format&fit=crop'
+        name: "Məhəmməd Əmin Rəsulzadə",
+        years: "1884–1955",
+        role: "Milli Şura sədri, dövlət xadimi",
+        bio: "“Bir kərə yüksələn bayraq bir daha enməz” şüarı ilə milli dövlətçilik ideyasının simvolu, Cümhuriyyətin ideoloji əsaslarının formalaşdırılmasında aparıcı şəxs.",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mahammad_Amin_Rasulzade_8.jpg/250px-Mahammad_Amin_Rasulzade_8.jpg"
     },
     {
-        name: 'Fətəli Xan Xoyski',
-        years: '1875–1920',
-        role: 'ADR-in ilk hökumət başçısı',
-        bio: 'Dövlət quruculuğunun əsas memarlarından biri; hökumətin təşkili, hüquq-məhkəmə sisteminin qurulması və idarəçilikdə şəffaflığın təmin edilməsi.',
-        imageUrl: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=400&auto=format&fit=crop'
+        name: "Fətəli Xan Xoyski",
+        years: "1875–1920",
+        role: "ADR-in ilk hökumət başçısı",
+        bio: "Dövlət quruculuğunun əsas memarlarından biri; hökumətin təşkili, hüquq-məhkəmə sisteminin qurulması və idarəçilikdə şəffaflığın təmin edilməsi.",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Fatali_Khan_Khoyski.jpg"
     },
     {
-        name: 'Nəsib bəy Yusifbəyli',
-        years: '1881–1920',
-        role: 'Nazirlər Şurasının sədri',
-        bio: 'Parlamentçilik ənənələrinin möhkəmlənməsi və çoxpartiyalı siyasi sistemin inkişafında mühüm rol oynamış dövlət xadimi.',
-        imageUrl: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400&auto=format&fit=crop'
+        name: "Nəsib bəy Yusifbəyli",
+        years: "1881–1920",
+        role: "Nazirlər Şurasının sədri",
+        bio: "Parlamentçilik ənənələrinin möhkəmlənməsi və çoxpartiyalı siyasi sistemin inkişafında mühüm rol oynamış dövlət xadimi.",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Nasib_bey_Yusifbeyli_%28cropped%29.jpg/250px-Nasib_bey_Yusifbeyli_%28cropped%29.jpg"
     },
     {
-        name: 'Əlimərdan bəy Topçubaşov',
-        years: '1863–1934',
-        role: 'Diplomat, Paris Sülh Konfransında nümayəndə heyətinin rəhbəri',
-        bio: 'ADR-in beynəlxalq tanınması üçün diplomatik fəaliyyətin əsas simalarından; beynəlxalq arenada Azərbaycanı təmsil edən tanınmış hüquqşünas və diplomat.',
-        imageUrl: 'https://images.unsplash.com/photo-1527980965255-d3b416303d12?q=80&w=400&auto=format&fit=crop'
+        name: "Əlimərdan bəy Topçubaşov",
+        years: "1863–1934",
+        role: "Diplomat, Paris Sülh Konfransında nümayəndə heyətinin rəhbəri",
+        bio: "ADR-in beynəlxalq tanınması üçün diplomatik fəaliyyətin əsas simalarından; beynəlxalq arenada Azərbaycanı təmsil edən tanınmış hüquqşünas və diplomat.",
+        imageUrl: "https://qebulol.az/wp-content/uploads/2025/07/eli1.jpg"
     }
 ];
 function QurucularPage() {
@@ -154,7 +154,7 @@ function QurucularPage() {
                 children: "ADR-in Qurucu Şəxsiyyətləri"
             }, void 0, false, {
                 fileName: "[project]/app/qurucular/page.tsx",
-                lineNumber: 43,
+                lineNumber: 47,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -162,7 +162,7 @@ function QurucularPage() {
                 children: "Aşağıda Azərbaycan Xalq Cümhuriyyətinin formalaşmasında mühüm rol oynamış bir neçə şəxs haqqında qısa məlumat verilir. Siyahı genişləndirilə bilər."
             }, void 0, false, {
                 fileName: "[project]/app/qurucular/page.tsx",
-                lineNumber: 44,
+                lineNumber: 48,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -171,18 +171,18 @@ function QurucularPage() {
                         ...f
                     }, f.name, false, {
                         fileName: "[project]/app/qurucular/page.tsx",
-                        lineNumber: 50,
+                        lineNumber: 55,
                         columnNumber: 11
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/app/qurucular/page.tsx",
-                lineNumber: 48,
+                lineNumber: 53,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/app/qurucular/page.tsx",
-        lineNumber: 42,
+        lineNumber: 46,
         columnNumber: 5
     }, this);
 }
